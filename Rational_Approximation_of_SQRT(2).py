@@ -1,4 +1,4 @@
-# Rough code; to be tidied up and improed
+# Rough code; to be tidied up and improved
 
 import math
 
